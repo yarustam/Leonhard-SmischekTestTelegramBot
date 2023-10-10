@@ -1,2 +1,1 @@
-# Leonhard-SmischekTestTelegramBot
-Leonhard-Smischek Test, Telegram bot, studying project
+Учебный проект. Поэтапное создание бота в Телеграм, который проводит тест Леонгарда-Шмишека.
