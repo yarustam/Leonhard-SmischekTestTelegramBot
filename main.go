@@ -35,7 +35,6 @@ func questionCycle(counts []int, QuestionsMaps []map[string][]int, arrTestQuesti
 			}
 			break
 		}
-
 		for j, myMap := range QuestionsMaps {
 			counts[j] += countAnswer(myMap, answer, i)
 		}
@@ -60,5 +59,4 @@ func main() {
 
 	questionCycle(counts, QuestionsMaps, testQuestions)
 	testResult(counts)
-
 }
