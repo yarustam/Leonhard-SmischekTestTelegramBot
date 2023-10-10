@@ -26,7 +26,6 @@ func testResult(counts []int) {
 	}
 
 	//сортировка результатов в порядке убывания
-
 	//сперва создадим структуру
 	type kv struct {
 		Key   string
