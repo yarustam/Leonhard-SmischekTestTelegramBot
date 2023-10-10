@@ -47,7 +47,6 @@ func testResult(countA, countB, countC int) {
     fmt.Printf("Количество совпадений в группе C: %d\n", countC)
 }
 
-
 func main() {
     
     testQuestions  := []string{
